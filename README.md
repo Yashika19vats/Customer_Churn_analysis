@@ -16,10 +16,11 @@ The challenge was to:
 
 2. **Dashboard**  
    - Built an interactive dashboard for churn analysis  
-   - Visualized churn trends, customer segments, and revenue impact
-   - 3. **Insights & Recommendations (PDF Report)**  
+   - Visualized churn trends, customer segments, and revenue impact  
+
+3. **Insights & Recommendations (PDF Report)**  
    - Highlighted top churn drivers  
-   - Suggested actionable steps for customer retention  
+   - Suggested actionable steps for customer retention   
 
 ---
 
